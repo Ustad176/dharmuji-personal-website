@@ -1,0 +1,106 @@
+body{
+  font-family: "Handlee", cursive;
+  margin-top: 0;
+}
+h1{
+  text-align: center;
+  width: 20%;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 200px;
+}
+h3{
+  text-align: center;
+  margin-bottom: 100px;
+  font-family: monospace;
+}
+.top-cont{
+  margin-top: 0;
+  background-color: #e4f9f5;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.side-icon{
+  font-size: 20px;
+}
+.para{
+  text-align: center;
+  font-size: 25px;
+}
+.head{
+  margin-top: 20px;
+  position: absolute;
+  right: 50px;
+
+}
+.home{
+  background-color: inherit;
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+}
+.projects{
+  background-color: inherit;
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+}
+.notes{
+  background-color: inherit;
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+}
+.pic{
+  display: inline-block;
+  margin-left: 100px;
+  width: 150px;
+}
+.earth{
+  margin-top: 20px;
+}
+.hello{
+ margin-top: 50px;
+ font-size: 30px;
+}
+.pro{
+  text-decoration: underline;
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+  height: 100px;
+  width: 300px;
+}
+.cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  height: 100px;
+  width: 300px;
+}
+.mountain{
+  margin: 110px auto 0 auto;
+  height: 500px;
+  width: 100%;
+}
+.skills{
+  margin: 20px auto 0 auto;
+  font-size: 30px;
+}
+.hr{
+  border: none;
+  border-style: dotted;
+  border-top: 10px:
+}
+.middle-cont{
+  background-color: #e4f9f5;
+  text-align: center;
+}
+.bottum-cont{
+  background-color: #e4f9f5;
+  text-align: center;
+  font-size: 25px;
+}
